@@ -1,0 +1,65 @@
+body 
+{
+    margin:0px;
+        
+}
+body a
+{
+    
+    text-decoration:none;
+}
+.topbar a
+{
+    padding-left:50px;
+}
+nav
+{
+   background-image:url("car.jpg");
+   height:150px;
+   
+}
+.nav h3 
+{
+    width:100%;
+	height:100px;
+    text-align: center;
+    padding-top:50px;
+    font-size:40px;
+}
+.nav h3 a
+{
+    color:whitesmoke;
+}
+section
+{
+    background-color: rgb(243, 175, 130);
+}
+.sec
+{
+    width:50%;
+}
+section h4 a
+{
+  color:whitesmoke;
+}
+.image
+{
+    width: 354px; 
+    height: 150px !important; 
+}
+.image2
+{
+    width: 100%; 
+    height: 150px;
+}
+.sec2
+{
+    background-image:url("bg.jpg");
+    width:100%;
+    height:150px;
+    background-repeat: no-repeat;
+}
+.form 
+{
+    size:40%;
+}
